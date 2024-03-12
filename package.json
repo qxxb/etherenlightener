@@ -1,0 +1,19 @@
+{
+  "name": "etherenlightener",
+  "version": "1.1.0",
+  "description": "Builds on SolidityScribe and EtherOps to provide comprehensive contract analysis and insights.",
+  "main": "main.js",
+  "dependencies": {
+    "solidityscribe": "^1.0.0",
+    "etherops": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests defined\""
+  },
+  "author": "qxxb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qxxb/etherenlightener"
+  }
+}
